@@ -26,5 +26,11 @@
   },
   "dependencies": {
     "chai-fs": "^2.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "fuck-school@16"
+  ]
 }
